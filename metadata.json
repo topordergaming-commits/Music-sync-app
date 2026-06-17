@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Phone Synced Music Player",
+  "description": "Synchronize music playback across multiple smartphones simultaneously to amplify volume and play together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
